@@ -25,6 +25,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 12px;
 }
 
 .main-menu {
@@ -58,6 +59,10 @@ body {
 .main-div-text {
     display: flex;
     flex-direction: column;
+}
+
+.main-div-text a {
+    color: #09f3a4;
 }
 
 .visible {

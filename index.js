@@ -12,6 +12,7 @@ const lista = [li1, li2, li3, li4];
 
 const divs = [div1, div2, div3, div4];
 
+console.log('Se requiere poner diseño a la pagina pipipipip');
 
 
 lista.forEach(li => {
